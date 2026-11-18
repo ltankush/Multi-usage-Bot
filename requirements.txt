@@ -1,6 +1,6 @@
-pyrogram>=2.0.30
-motor==2.0.0
-dnspython==2.3.0
+pyrogram
+motor
+dnspython
 Tgcrypto 
 telethon
 youtube-search
@@ -14,7 +14,7 @@ Pillow
 opencv-python-headless
 aiofiles
 pykeyboard
-telegraph==2.2.0
-googletrans==3.1.0a0
-gTTS==2.3.1
+telegraph
+googletrans
+gTTS
 wget
